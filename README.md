@@ -1,5 +1,5 @@
 # About
-Part 2 of the car game exercise.
+Part 1 of the car game exercise.
 
 Basic exercise to practice creating and editing variables, if statements and methods.
 
