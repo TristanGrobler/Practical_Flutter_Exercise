@@ -1,4 +1,6 @@
 # About
+Part 2 of the car game exercise.
+
 Basic exercise to practice creating and editing variables, if statements and methods.
 
 Copy the following files into your new project:
